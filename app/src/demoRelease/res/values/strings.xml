@@ -1,0 +1,4 @@
+<resources>
+    <string name="build" >demo</string>
+    <string name="type" >release</string>
+</resources>

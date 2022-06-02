@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Simple Nature Sounds</string>
+    <string name="crickets">Cricket</string>
+    <string name="frogs">Frog</string>
+    <string name="wind" >Wind</string>
+    <string name="forest" >Forest</string>
+    <string name="rain" >Rain</string>
+    <string name="ocean" >Ocean</string>
+    <string name="sure" >Are You Sure?</string>
+    <string name="exit" >Exit</string>
+    <string name="yes" >Yes</string>
+    <string name="no" >No</string>
+</resources>

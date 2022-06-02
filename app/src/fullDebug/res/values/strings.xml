@@ -1,0 +1,4 @@
+<resources>
+    <string name="build" >full</string>
+    <string name="type" >debug</string>
+</resources>
