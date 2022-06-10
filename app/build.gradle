@@ -5,9 +5,9 @@ android {
     defaultConfig {
         applicationId "com.turboapps.simplenaturesounds"
         minSdkVersion 16
-        targetSdkVersion 30
-        versionCode 12
-        versionName "1.3.1-lostboy"
+        targetSdkVersion 32
+        versionCode 13
+        versionName "1.3.2-GH"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
